@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe596897-cf4b-44b3-a293-3e264840bcbc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/src/Autor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/src/Categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/src/Copia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/src/Editora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/src/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/src/Nacionalidade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/src/TestaBiblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Floricultura/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Floricultura/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Floricultura/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Floricultura/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Floricultura/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Floricultura/src/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Floricultura/src/Floricultura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Floricultura/src/ItemDeCompra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Floricultura/src/PessoaFisica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Floricultura/src/PessoaJuridica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Floricultura/src/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Floricultura/src/TipoProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Veiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conta Banco/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Conta Banco/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ZYEjuRbDZRVmRHkEYctLuAaC68" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe596897-cf4b-44b3-a293-3e264840bcbc" name="Changes" comment="" />
+      <created>1702590752632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702590752632</updated>
+    </task>
+    <servers />
+  </component>
+</project>
