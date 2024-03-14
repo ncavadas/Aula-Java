@@ -5,29 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6fc3232-cca2-4fa8-a4f9-e27eec4312fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Autor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Categoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Copia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Editora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nacionalidade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestaBiblioteca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Floricultura/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Floricultura/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Floricultura/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Floricultura/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Floricultura/src/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Floricultura/src/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Floricultura/src/Floricultura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Floricultura/src/ItemDeCompra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Floricultura/src/PessoaFisica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Floricultura/src/PessoaJuridica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Floricultura/src/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Floricultura/src/TipoProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Locadora/src/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Locadora/src/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Locadora/src/Veiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Conta Banco/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Conta Banco/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestaBiblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaBiblioteca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demeter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demeter/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Ninac/IdeaProjects/Aula-Java/Biblioteca"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="TestaBiblioteca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestaBiblioteca" />
