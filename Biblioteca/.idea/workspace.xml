@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b6fc3232-cca2-4fa8-a4f9-e27eec4312fb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestaBiblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaBiblioteca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Demeter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demeter/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +36,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Ninac/IdeaProjects/Aula-Java/Biblioteca"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ninac/IdeaProjects/Aula-Java/Biblioteca&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="TestaBiblioteca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestaBiblioteca" />
